@@ -8,7 +8,7 @@ public class DataTypesTest {
      * Test that DataTypes.sum returns the correct value for
      * the sum from 1 to 1 million.
      */
-    public static void largeSumTest() {
+    public void largeSumTest() {
 
         // You put an L at the end to indicate it is a long.
         // try removing the L and you'll see that you get an error
